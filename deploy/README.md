@@ -1,1 +1,2 @@
-
+- In this example we will copy our app files into the docker image file.
+- Before create an image in this current directory copy the *model.pkl, scale.pkl* 
